@@ -1,4 +1,8 @@
 # React Weather App
+
+### Visit the site here:
+https://marcusmahlatjie.github.io/react-weather-app/
+ 
 This is a real time weather app that displays the temperature, humidity, wind and a suggestion to the feel of the weather. This app was built using React and makes use of the OpenWeather API to fetch global weather data before being formatted to display in the app. I really enjoyed creating this app because it helped me test my skills on working with API's in React and making use of useState with event listeners.
 
 ### `npm start`
